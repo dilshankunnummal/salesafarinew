@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683147779678",
+    "project_id": "salesafari-61874",
+    "storage_bucket": "salesafari-61874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683147779678:android:d2080759e43ef0910f1ecf",
+        "android_client_info": {
+          "package_name": "com.example.salesafari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683147779678-4iig3jcttd04lhov2g8drl78loeb4ogu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj_l4I-DJVnvDIquXf0pb2dITPrzYa7hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683147779678-4iig3jcttd04lhov2g8drl78loeb4ogu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
